@@ -25,4 +25,4 @@ Employment
 * 2019 - 2020: Postdoctoral Reseacher
 	* [NIC  Lab](https://neurocenter-unige.ch/research-groups/patrik-vuilleumier/), University of Geneva, Geneva, Switzerland
 * 2014 - 2018: Research and Teaching Assistant
-	* [CVML lab](https://cvml.unige.ch/) University of Geneva, Geneva, Switzerland
+	* [CVML lab](https://cvml.unige.ch/), University of Geneva, Geneva, Switzerland
