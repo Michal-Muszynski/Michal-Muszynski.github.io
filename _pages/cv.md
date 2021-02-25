@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, University of Geneva, Switzerland, 2018
-* B.Sc. in Mathematics, Warsaw University of Technology, Poland, 2016
-* B.Sc. in Computer Science, Warsaw University of Technology, Poland, 2016
-* B.Sc. in Computer Science, Warsaw University of Technology, Poland, 2016
+* B.Sc. in Mathematics, Warsaw University of Technology, Poland, 2014
+* M.Sc. in Automatic Control and Robotics, Warsaw University of Technology, Poland, 2012
+* B.Sc. in Automatic Control and Robotics, Warsaw University of Technology, Poland, 2011
 
 Employment
 ======
-* 2020 - current: Data Scientist/Postdoctoral Scholar
-	* [NIC  Lab] (https://www.bas.ac.uk/project/a/), University of Geneva, Geneva, Switzerland
+* 2021 - present: Senior Postdoctoral Researcher
+	* [NIC  Lab] (https://neurocenter-unige.ch/research-groups/patrik-vuilleumier/), University of Geneva, Geneva, Switzerland
 * 
