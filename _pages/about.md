@@ -10,6 +10,4 @@ redirect_from:
 
 My website is in preperation at the moment.
 
-I am a Data Scientist/Postdoc in the Artificial Intelligence (AI) Lab at the British Antarctic Survey (BAS) environmental research institute in Cambridge, UK. 
-
-My research focuses on AI and data science methods for climate science.
+I am postodoctoral reseacher at the University of Geneva in Switzerland.
