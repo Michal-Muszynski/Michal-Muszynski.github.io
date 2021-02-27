@@ -12,7 +12,7 @@ My research focuses on the devoplement and application of multimodal deep machin
 
 <img class="center" align="center" width="70%" src="/images/Human_Centered_AI.png">
 
-# Applications to Brain Imaging:
+# Eploring Emotions and their Dynamics in Human Brain: Brain Imaging
 
 We investigate the neural stractures in human brain that are responsible for multiple component processes that are integrated in a dynamic manner to generate emotion episodes, such as appraisal mechanisms that process contextual information on events, as well as motivational, expressive, and physiological mechanisms that orchestrate behavioral manifestations.
 In our project, we aim to:
