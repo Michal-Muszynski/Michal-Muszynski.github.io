@@ -19,3 +19,9 @@ In our project, we aim to:
 - explore brain networks that mediate different components and appraisals using fMRI, physiological, and behavioral measures during emotional events;
 - develop naturalistic elicitation procedures by exploiting aesthetic and emotional movies;
 - apply new signal processing and machine learing methods and approaches to uncover the neural representation of emotions.
+
+<img class="center" align="center" width="70%" src="/images/SInergia_project.png">
+
+# Healthcare Informatics
+
+
