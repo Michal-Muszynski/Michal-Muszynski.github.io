@@ -53,10 +53,18 @@ Turn-changing is an important aspect of smooth conversation, where the roles of 
 
 # Affective Computing
 
+Affective computing is an interdisciplinary research field at the interaction of computer science, psychology, neuroscience, and cognitive science that aims to develop and build “emotional machines” (i.e., smart systems and devices) that are able to sense, recognize, and interpret human affects to facilitate human-machine/computer interaction. 
+
 ## Multimodal Emotion Recognition 
+
+We work on aesthetic and affective movie content analysis. As a result, the difference between perceived and induced emotions of movie audiences is discovered. The results suggest that there is more to be considered than simply assuming that the perceived emotions of the stimuli are consistent with the emotions induced in spectators. Thus, researchers have to take into account this result when designing experiments for affective content analysis research on movies. Furthermore, perceived and induced emotions of the movie audiences are associated with the occurrence of aesthetic highlights in movies.
+Moreover, we investigate multimodal modelling approaches to predict movie induced emotions from movie content based features, as well as physiological and behavioral reactions of movie audiences. Our experiments reveal that induced emotion recognition benefit from including temporal information and performing multimodal fusion.
 
 <img class="center" align="center" width="70%" src="/images/Multimodal_emotion_recognition.png">
 
 ## Highlight Detection in Movies
+
+In this project, we work on the analysis of spectators’ physiological and behavioural reactions recorded in a movie theatre. The aesthetic highlights are defined in terms of form (spectacular, subtle) and content (character development, dialogue, theme development) in collaboration a movie critic.
+In particular, we analyze social interactions during watching movies by using synchronization measures to provide insight into how spectators react to aesthetic movie content in a movie theatre. Furthermore, we investigate aesthetic highlight detection in movies based on different levels of physiological and behavioral synchrony among spectators.
 
 <img class="center" align="center" width="70%" src="/images/HD_scheme1_c.png">
