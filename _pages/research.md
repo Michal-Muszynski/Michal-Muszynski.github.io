@@ -24,6 +24,11 @@ In our project, we aim to:
 
 # Context-Aware AI: Contextualization Modelling in Multi-party Conversations
 
+One of the most natural forms of interactions among humans is conversation that could be defined as an oral exchange of sentiments, observations, opinions, and ideas. Emotion recognition in multiparty settings has risen many challenges, such as tracking multiple speakers, dealing with environmental noise and occlusions, and missing modalities. Moreover, emotions of individuals and groups may change over time when a conversation goes on.
+We aim to propose a framework for multimodal emotion recognition in multi-party settings that:
+- models multimodal multi-party conversations;
+- models contextualization at utterance and dialogue level.
+
 <img class="center" align="center" width="70%" src="/images/Context_aware_AI.png">
 
 # Healthcare Informatics
