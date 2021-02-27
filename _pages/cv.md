@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, University of Geneva, Switzerland, 2018
-* M.Sc. in Automatic Control and Robotics, Warsaw University of Technology, Poland, 2012
-* B.Sc. in Mathematics, Warsaw University of Technology, Poland, 2014
-* B.Sc. in Automatic Control and Robotics, Warsaw University of Technology, Poland, 2011
+* M.Sc. in Automatic Control and Robotics, Warsaw University of Technology, Poland
+* B.Sc. in Mathematics, Warsaw University of Technology, Poland
+* B.Sc. in Automatic Control and Robotics, Warsaw University of Technology, Poland
 
 Employment
 ======
