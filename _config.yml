@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michal Muszynski"
 title_separator          : "-"
 name                     : &name "Michal Muszynski"
-description              : &description "PostDoc"
+description              : &description "Senior Data Scientist"
 url                      : https://Michal-Muszynski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Michal Muszynski"
   avatar           : "profile.jpg"
-  bio              : "Postdoc"
-  employer         : "University of Geneva"
-  location         : "Geneva, Switzerland"
+  bio              : "Senior Data Scientist"
+  employer         : "IBM"
+  location         : "Dublin, Ireland"
   googlescholar    : "https://scholar.google.com/citations?user=xjEGD84AAAAJ&hl=en&oi=sra"
   email            :
   uri              :
