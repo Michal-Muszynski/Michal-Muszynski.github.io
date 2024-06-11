@@ -18,7 +18,11 @@ Education
 
 Employment
 ======
-* 2021 - present: Senior Postdoctoral Researcher
+* 2024 - present: Senior Data Scientist
+	* [Department of Sustainability Software Development](https://www.ibm.com/sustainability), IBM, Dublin, Ireland
+* 2021 - 2023: Postdoctoral AI Research Fellow and Data Scientist
+	* [Department of Accelerated Discovery and AI](https://research.ibm.com/), IBM Research, Zurich, Switzerland
+* 2021 - 2021: Senior Postdoctoral Researcher
 	* [NIC  Lab](https://neurocenter-unige.ch/research-groups/patrik-vuilleumier/), University of Geneva, Geneva, Switzerland
 * 2019 - 2020: Postdoctoral Research Associate (SNF fellowship holder)
 	* [MultiComp Lab](http://multicomp.cs.cmu.edu/), Carnegie Mellon University, Pittsburgh, the United States of America 
