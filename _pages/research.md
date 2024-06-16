@@ -8,14 +8,20 @@ redirect_from:
   - /research.html
 ---
 
+# Current Research at IBM
 
 As a Senior Data Scientist at IBM in Dublin, my current research mostly focuses on:
 - creating tunable and reusable multimodal foundation models to analyze petabytes of text and remote-sensing data for mitigation of climate impact on society and businesses and successful adaptation to a changing environment;
 - mobile health interventions and establishing an integrated chronic disease management platform with the aim to record patient symptoms continuously, predict and prevent acute events for supporting patients in their everyday activities;
-- developing AI-assisted chemical sensing technologies for rapid fingerprinting of complex liquids.
+
+# AI-assisted chemical sensing
+We develope AI-assisted chemical sensing technologies for rapid fingerprinting of complex liquids.
+
 <img class="center" align="center" width="70%" src="/images/Hypertaste.png">
 
-# Exploring Emotions and their Dynamics in Human Brain: Brain Imaging
+# Former Research: Multimedia
+
+## Exploring Emotions and their Dynamics in Human Brain: Brain Imaging
 
 We investigate the neural stractures in human brain that are responsible for multiple component processes that are integrated in a dynamic manner to generate emotion episodes, such as appraisal mechanisms that process contextual information on events, as well as motivational, expressive, and physiological mechanisms that orchestrate behavioral manifestations.
 In our project, we aim to:
@@ -25,7 +31,7 @@ In our project, we aim to:
 
 <img class="center" align="center" width="70%" src="/images/SInergia_project.png">
 
-# Context-Aware AI: Contextualization Modelling in Multi-party Conversations
+## Context-Aware AI: Contextualization Modelling in Multi-party Conversations
 
 One of the most natural forms of interactions among humans is conversation that could be defined as an oral exchange of sentiments, observations, opinions, and ideas. Emotion recognition in multiparty settings has risen many challenges, such as tracking multiple speakers, dealing with environmental noise and occlusions, and missing modalities. Moreover, emotions of individuals and groups may change over time when a conversation goes on.
 We aim to propose a framework for multimodal emotion recognition in multi-party settings that:
