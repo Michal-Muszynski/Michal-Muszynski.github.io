@@ -14,7 +14,7 @@ As a Senior Data Scientist at IBM in Dublin, my current research mostly focuses 
 
 ## Geospatial Data Analytics and Foundation Models
 
-We creating tunable and reusable multimodal foundation models to analyze petabytes of text and remote-sensing data for mitigation of climate impact on society and businesses and successful adaptation to a changing environment.
+We create tunable and reusable multimodal foundation models to analyze petabytes of text and remote-sensing data for mitigation of climate impact on society and businesses and successful adaptation to a changing environment.
 
 <img class="center" align="center" width="70%" src="/images/GFMs_plot.png">
 
@@ -26,7 +26,7 @@ We aim to support mobile health interventions and establish an integrated chroni
 
 ## AI-assisted Chemical Sensing
 
-We develope AI-assisted chemical sensing technologies for rapid fingerprinting of complex liquids.
+We develop AI-assisted chemical sensing technologies for rapid fingerprinting of complex liquids.
 
 <img class="center" align="center" width="70%" src="/images/Hypertaste.png">
 
