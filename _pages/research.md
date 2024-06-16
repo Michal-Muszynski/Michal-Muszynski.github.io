@@ -13,7 +13,7 @@ As a Senior Data Scientist at IBM in Dublin, my current research mostly focuses 
 - creating tunable and reusable multimodal foundation models to analyze petabytes of text and remote-sensing data for mitigation of climate impact on society and businesses and successful adaptation to a changing environment;
 - mobile health interventions and establishing an integrated chronic disease management platform with the aim to record patient symptoms continuously, predict and prevent acute events for supporting patients in their everyday activities;
 - developing AI-assisted chemical sensing technologies for rapid fingerprinting of complex liquids.
-
+<img class="center" align="center" width="70%" src="/images/Hypertaste.png">
 
 # Exploring Emotions and their Dynamics in Human Brain: Brain Imaging
 
