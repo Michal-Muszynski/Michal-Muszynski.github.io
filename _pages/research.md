@@ -22,7 +22,7 @@ We creating tunable and reusable multimodal foundation models to analyze petabyt
 
 We aim to support mobile health interventions and establish an integrated chronic disease management platform with the aim to record patient symptoms continuously, predict and prevent acute events for supporting patients in their everyday activities.
 
-<img class="center" align="center" width="70%" src="/images/Hypertaste.png">
+<img class="center" align="center" width="70%" src="/images/HC_panel.png">
 
 ## AI-assisted Chemical Sensing
 
